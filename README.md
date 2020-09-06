@@ -1,2 +1,5 @@
 # open-source-stuff
-all of my open source projects
+
+All of my  open source projects.
+
+some at least im new to git hub
